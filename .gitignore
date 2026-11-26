@@ -1,0 +1,5 @@
+jenkins.war
+__pycache__/
+.DS_Store
+.venv/
+.env
