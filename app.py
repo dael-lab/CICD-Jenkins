@@ -1,6 +1,6 @@
 def main():
     print("Hello, Jenkins!")
-    print("Continuous Integration is working!")
+    print("CI is broken!")
 
 if __name__ == "__main__":
     main()
